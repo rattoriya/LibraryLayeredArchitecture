@@ -1,0 +1,12 @@
+viktoriya|1509442|false
+kate|1509442|false
+lera|1509442|false
+sasha|99162322|false
+ira|1509442|false
+irina|1509441|true
+angelina|-2054162789|true
+veronika|1509442|false
+вика|1509442|false
+Viktoriya|46792755|false
+sergey|46792755|false
+egor|46792755|true
